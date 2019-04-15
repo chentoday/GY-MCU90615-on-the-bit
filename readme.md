@@ -3,7 +3,7 @@
 - 前提准备：[第一次使用必看](https://github.com/aJantes/Initialize-the-board/blob/master/readme.md)
 - 硬件介绍：
 1. [BPI:bit(ESP32)](https://github.com/aJantes/introduce-bpi-bit/blob/master/readme.md)
-2. [GY-MCU90615V2](https://github.com/aJantes/GY-MCU90615/blob/master/GY-MCU90615.pdf)
+2. [GY-MCU90615V2](https://github.com/aJantes/GY-MCU90615-on-the-bit/blob/master/GY-MCU90615.pdf)
 3. 底座
 4. 杜邦线
 - 编程工具：[pycharm](https://github.com/aJantes/use-pycharm/blob/master/readme.md)
@@ -22,7 +22,7 @@
 
 
 示例代码
-- [serial.py](https://github.com/aJantes/GY-MCU90615/blob/master/serial.py)
+- [serial.py](https://github.com/aJantes/GY-MCU90615-on-the-bit/blob/master/serial.py)
 
 运行效果如下图：
 ![](album/temp.png)
